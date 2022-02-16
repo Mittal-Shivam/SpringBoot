@@ -1,13 +1,13 @@
-package com.MittalShivam.beginnerproject;
+package com.dev.cmps;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BeginnerProjectApplication {
+public class CourseMarketplaceSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BeginnerProjectApplication.class, args);
+		SpringApplication.run(CourseMarketplaceSystemApplication.class, args);
 	}
 
 }
